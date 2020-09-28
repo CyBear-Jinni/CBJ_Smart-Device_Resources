@@ -1,1 +1,1 @@
-# CBJ_Smart-Device_Resorces
+# CyBear Jinni Smart Device Resources
