@@ -1,4 +1,4 @@
-# Installation Instructions for the NanoPi Duo2
+# Setting Up NanoPi Duo2 With CyBear Jinni
 
 1. Install the image to sd card.
 
