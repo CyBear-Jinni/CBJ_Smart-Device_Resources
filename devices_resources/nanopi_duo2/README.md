@@ -1,8 +1,8 @@
-# Setting Up NanoPi Duo2 With CyBear Jinni
+# Setting Up NanoPi Duo 2 With CyBear Jinni
 
 1. Install the image to sd card.
 
-2. Insert the sd card to the NanoPi Duo2 device and connect it to the computer with USB to TTL Serial Cable/Console Cable.
+2. Insert the sd card to the NanoPi Duo 2 device and connect it to the computer with USB to TTL Serial Cable/Console Cable.
 
 3. Open the terminal and connect to it with the following command:
 
