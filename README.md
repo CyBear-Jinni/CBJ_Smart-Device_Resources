@@ -7,8 +7,9 @@ The smart devices use this snap to run
 
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/cybear-jinni)
 
-And the code to the snap can be found in the [**CyBear Jinni Smart Device**](https://github.com/CyBear-Jinni/CBJ_Smart-Device.git) repository. 
+And the code of the snap can be found in the [**CyBear Jinni Smart Device**](https://github.com/CyBear-Jinni/CBJ_Smart-Device.git) repository. 
 
+For the instructions on how to set up new Smart Device enter the [devices resources](https://github.com/CyBear-Jinni/CBJ_Smart-Device_Resources/tree/dev/devices_resources) folder and select one of the supported devices folders. 
 
 
 # Social Media Links
