@@ -22,6 +22,10 @@ And copy the content from the file 'setup_new_smart_device.sh' in the repository
 
 The keyboard shortcuts to copy into nano text manager is ctrl+shift+v
 
+Now replace the text wifiSsid to your wifi name and wifiPassword to your wifi password in the line
+
+nmcli dev wifi connect wifiSsid password wifiPassword
+
 And to save and exist press ctrl+x  and than press y to accept.
 
 6. Make the script executable by running the command 
@@ -40,7 +44,7 @@ and enter your password
 
 'sudo hwclock -w'
 
-10. Now it should run already but the os armbian for the nanopi duo2 currently does not have good cpu speed configuration by default.
+10. Now it should run already but the os armbian for the NanoPi Duo2 currently does not have good cpu speed configuration by default.
 
 In order to let the device work range of lower speeds follow the following steps.    
 
