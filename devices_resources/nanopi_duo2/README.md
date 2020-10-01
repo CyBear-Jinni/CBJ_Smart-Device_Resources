@@ -12,7 +12,7 @@ After that it will ask you to choose new password for root.
 
 <p>4. Update the device date with the command </p>
 
-`sudo date -s "23 Sep 2020 16:01:50"`.
+`sudo date -s "23 Sep 2020 16:01:50"`
 
 <p>5. Create the file 'setup_new_smart_device.sh' on the device
 
