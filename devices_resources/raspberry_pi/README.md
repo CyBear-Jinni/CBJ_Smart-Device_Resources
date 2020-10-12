@@ -1,6 +1,6 @@
 # Setting Up Raspberry Pi With CyBear Jinni
 
-<p>1. Install <a href="https://www.raspberrypi.org/downloads">Raspberry Pi image</a> into an sd card (`Raspberry Pi OS` and `Ubuntu Server` where tested).</p>
+<p>1. Install <a href="https://www.raspberrypi.org/downloads">Raspberry Pi image</a> into an sd card (`Raspberry Pi OS` and `Ubuntu Server` where tested, if you choose `Ubuntu Server` you will need to install <a href="https://github.com/WiringPi/WiringPi">wiringpi</a> manually).</p>
 
 <p>2. Insert the sd card into the Raspberry Pi and power it on</p>
 
