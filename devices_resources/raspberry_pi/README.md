@@ -2,7 +2,7 @@
 
 <p>1. Install <a href="https://www.raspberrypi.org/downloads">Raspberry Pi image</a> into an sd card (`Raspberry Pi OS` and `Ubuntu Server` where tested).</p>
 
-<p>2. Insert the sd card into the Raspberry Pi and start the OS that installed</p>
+<p>2. Insert the sd card into the Raspberry Pi and power it on</p>
 
 <p>3. Open the terminal.</p>
 
@@ -10,15 +10,15 @@
 
 `nano setup_new_smart_device.sh`
 
-And copy the content from the file `setup_new_smart_device.sh` in the repository into that file.
+Copy the content from the file `setup_new_smart_device.sh` in this folder into that file we created on the Raspberry Pi.
 
 The keyboard shortcuts to copy into nano text manager is ctrl+shift+v .
 
 Now replace the text wifiSsid to your wifi name and wifiPassword to your wifi password in the line
 
-nmcli dev wifi connect wifiSsid password wifiPassword
+`nmcli dev wifi connect wifiSsid password wifiPassword`
 
-And to save and exist press ctrl+x  and than press y to accept.
+To save and exist press ctrl+x  and than press y to accept.
 
 <p>5. Make the script executable by running the command </p>
 
