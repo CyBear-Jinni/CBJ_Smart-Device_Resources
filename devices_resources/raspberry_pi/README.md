@@ -1,6 +1,6 @@
 # Setting Up Raspberry Pi With CyBear Jinni
 
-<p>1. Install [Raspberry Pi image](https://www.raspberrypi.org/downloads) into an sd card (`Raspberry Pi OS` and `Ubuntu Server` where tested).</p>
+<p>1. Install <a href="https://www.raspberrypi.org/downloads">Raspberry Pi image</a> into an sd card (`Raspberry Pi OS` and `Ubuntu Server` where tested).</p>
 
 <p>2. Insert the sd card into the Raspberry Pi and start the OS that installed</p>
 
@@ -32,4 +32,4 @@ and enter your password
 
 <p>7. Now it should run</p>
 
-<p>Now just [run it manually](https://github.com/CyBear-Jinni/CBJ_Smart-Device/wiki/Instructions-for-developers) as Raspberry Pi is currently not supported as a snap</p>
+<p>Now just <a href="https://github.com/CyBear-Jinni/CBJ_Smart-Device/wiki/Instructions-for-developers">run it manually</a> as Raspberry Pi is currently not supported as a snap</p>
