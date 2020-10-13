@@ -9,7 +9,7 @@ echo 'Light, ' >/etc/cbjinni/deviceConfigs.txt
 # Connect device to the wifi
 nmcli dev wifi connect wifiSsid password wifiPassword
 
-sudo apt update
+sudo apt -y update
 
 ## Install snapd:
 #sudo apt install snapd
@@ -17,6 +17,4 @@ sudo apt update
 ##sudo snap install network-manager-dart --edge --devmode  # Privet snap for now
 #sudo snap install cybear-jinni
 
-sudo apt upgrade
-
-sudo reboot
+sudo apt -y upgrade
