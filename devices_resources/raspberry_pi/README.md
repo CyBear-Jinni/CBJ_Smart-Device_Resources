@@ -2,7 +2,7 @@
 
 <p>1. Install <a href="https://www.raspberrypi.org/downloads">Raspberry Pi image</a> into an sd card (`Raspberry Pi OS` and `Ubuntu Server` where tested, if you choose `Ubuntu Server` you will need to install <a href="https://github.com/WiringPi/WiringPi">wiringpi</a> manually).</p>
 
-<p>2. Insert the sd card into the Raspberry Pi and power it on</p>
+<p>2. Insert the sd card into the Raspberry Pi and power it on.</p>
 
 <p>3. Open the terminal.</p>
 
@@ -28,8 +28,13 @@ To save and exist press ctrl+x  and than press y to accept.
 
 `sudo ./setup_new_smart_device.sh`
 
-and enter your password
+and enter your password.
 
 <p>7. Now it should run</p>
 
-<p>Now just <a href="https://github.com/CyBear-Jinni/CBJ_Smart-Device/wiki/Instructions-for-developers">run it manually</a> as Raspberry Pi is currently not supported as a snap from the snap store but you can download old version from <a href="https://drive.google.com/drive/u/1/folders/1eLO8F8KlLK0wjQSqz8zXr_xigyk0xkoh">here</a>.</p>
+<p>Raspberry Pi is currently not supported as a snap from the snap store.
+  
+You can download manually old version of the snap <a href="https://drive.google.com/drive/u/1/folders/1eLO8F8KlLK0wjQSqz8zXr_xigyk0xkoh">from here</a> and install  it using the command
+  
+`sudo snap install --devmode cybear-jinni...`
+</p>
