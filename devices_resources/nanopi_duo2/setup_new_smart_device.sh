@@ -21,18 +21,16 @@ echo 'Light, ' >/etc/cbjinni/deviceConfigs.txt
 # Connect device to the wifi
 nmcli dev wifi connect wifiSsid password wifiPassword
 
-sudo apt update
+sudo apt -y update
 
 # Install snapd:
-sudo apt install snapd
+sudo apt -y install snapd
 
 #sudo snap install network-manager-dart --edge --devmode  # Privet snap for now
 sudo snap install cybear-jinni
 
-sudo apt upgrade
+sudo apt -y upgrade
 
 # Change the prosessor sepeed to 1Ghz, armbian-config -> system
 # Check if it was fixed https://forum.armbian.com/topic/13993-nanopiduo2-not-booting-after-intense-processing-task/
 echo 'armbian-config -> system'
-
-sudo reboot
