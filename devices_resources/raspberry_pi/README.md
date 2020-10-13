@@ -30,11 +30,9 @@ To save and exist press ctrl+x  and than press y to accept.
 
 and enter your password.
 
-<p>7. Now it should run</p>
-
-<p>Raspberry Pi is currently not supported as a snap from the snap store.
+<p>7. Raspberry Pi is currently not supported as a snap from the snap store.
   
-You can download manually old version of the snap <a href="https://drive.google.com/drive/u/1/folders/1eLO8F8KlLK0wjQSqz8zXr_xigyk0xkoh">from here</a> and install  it using the command
+You can download manually old version of the snap <a href="https://drive.google.com/drive/u/1/folders/1eLO8F8KlLK0wjQSqz8zXr_xigyk0xkoh">from here</a> and install  it using the command (change the dots to the rest of the name of the snap file that you downloaded)
   
 `sudo snap install --devmode cybear-jinni...`
 </p>
