@@ -1,6 +1,6 @@
 # Setting Up NanoPi Duo 2 With CyBear Jinni
 
-<p>1. Install the <a href="https://drive.google.com/drive/u/1/folders/1xPKAArDP-oiXzCBvActTpDOD6Pqozh4Pto">OS image</a> into an sd card.</p>
+<p>1. Install the <a href="https://drive.google.com/drive/u/1/folders/1xPKAArDP-oiXzCBvActTpDOD6Pqozh4P">OS image</a> into an sd card.</p>
 
 <p>2. Insert the sd card to the NanoPi Duo 2 device and connect it to the computer with USB to TTL Serial Cable/Console Cable.</p>
 
