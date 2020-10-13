@@ -32,4 +32,4 @@ and enter your password
 
 <p>7. Now it should run</p>
 
-<p>Now just <a href="https://github.com/CyBear-Jinni/CBJ_Smart-Device/wiki/Instructions-for-developers">run it manually</a> as Raspberry Pi is currently not supported as a snap from the snap store but you can download old version from <a href="https://drive.google.com/file/d/1d2ogkZk5unNa7nwbmiuuil9ahj_M2Rou/view?usp=sharing">here</a></p>
+<p>Now just <a href="https://github.com/CyBear-Jinni/CBJ_Smart-Device/wiki/Instructions-for-developers">run it manually</a> as Raspberry Pi is currently not supported as a snap from the snap store but you can download old version from <a href="https://drive.google.com/drive/u/1/folders/1eLO8F8KlLK0wjQSqz8zXr_xigyk0xkoh">here</a>.</p>
