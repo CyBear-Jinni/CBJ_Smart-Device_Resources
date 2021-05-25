@@ -26,8 +26,8 @@ sudo apt update
 # Install snapd:
 sudo apt install snapd
 
-#sudo snap install network-manager-dart --edge --devmode  # Privet snap for now
 sudo snap install cybear-jinni
+sudo snap install security-bear
 
 sudo apt upgrade
 
